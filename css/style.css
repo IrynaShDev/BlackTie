@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.container{
+    margin: auto;
+} 
+nav{
+    background-color: black;
+    color: lightgray
+}
+nav .brand-logo{
+    padding-left: 35px;
+    color: blue;
+}
+.right {
+    float: left !important;   
+}
+ul:not(.browser-default) {
+    padding-left: 70px;   
+}
+header{
+    text-align: center;
+    background-image: url(../img/header_bg.jpg);
+    background-position: 12% 57%;
+    padding: 110px 0;
+    color: white
+}
+.header-icon{
+    font-size: 90px;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.5;
+}
+.service{
+    text-align: center;
+    background-color: lightgray;
+    padding: 40px 0 50px 0;
+}
+h3{
+    font-size: 30px;
+    padding: 15px 0;
+}
+.service1{
+    font-size: 50px;
+}
+h2{
+    text-transform: uppercase;
+    font-weight: 100;    
+    text-align: center;
+    font-size: 40px;
+    padding: 30px 0;
+}
+.design{
+    background-image: url(../img/bg/divider1.jpg);
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.design2{
+    background-image: url(../img/bg/divider2.jpg);
+    background-position: 55% 30%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.iphone1{
+    width: 100%;
+}
+.team4{
+    text-align: center;
+}
+.team4 img{
+    border-radius: 100px;
+}
+.team4 h3{
+    font-size: 20px;
+}
+.design3{
+    background-image: url(../img/bg/divider3.jpg);
+    background-position: 55% 30%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.portfolio{
+    width: 100%;
+}
+.design4{
+    background-image: url(../img/bg/divider4.jpg);
+    background-position: 55% 30%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.design5{
+    background-image: url(../img/bg/divider6.jpg);
+    background-position: 55% 30%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.img_2{
+    border-radius: 100%;
+    width: 45px;
+}
+.jaye{
+    height: 450px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    text-align: center;    
+}
+.map{
+    color: lightblue;
+}
+.adress-footer{
+    list-style-type: none;
+    
+}
+.bottom-footer{
+    padding: 55px 0 30px 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+.adress-footer{
+    padding-left: 0;
+}
+.blue-text{
+    color: lightblue;
+}
+.icon-black{
+    color: black;
+}
+input{
+    width: 292px;
+    height: 35px;
+    margin-top: 21px;
+}
+input::placeholder{
+    padding-left: 10px;
+}
+#send{
+    width: 65px;
+    height: 35px;
+    border-radius: 5px; 
+    background-color: #5bb85d;
+    border: none;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
